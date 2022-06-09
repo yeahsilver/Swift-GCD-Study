@@ -16,6 +16,7 @@
 		962921A2284D6F5600773D61 /* GCD_TutorialTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 962921A1284D6F5600773D61 /* GCD_TutorialTests.swift */; };
 		962921AC284D6F5600773D61 /* GCD_TutorialUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 962921AB284D6F5600773D61 /* GCD_TutorialUITests.swift */; };
 		962921AE284D6F5600773D61 /* GCD_TutorialUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 962921AD284D6F5600773D61 /* GCD_TutorialUITestsLaunchTests.swift */; };
+		96F0239E28519748006BD05D /* MainViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96F0239D28519748006BD05D /* MainViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		962921A7284D6F5600773D61 /* GCD-TutorialUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "GCD-TutorialUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		962921AB284D6F5600773D61 /* GCD_TutorialUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GCD_TutorialUITests.swift; sourceTree = "<group>"; };
 		962921AD284D6F5600773D61 /* GCD_TutorialUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GCD_TutorialUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		96F0239D28519748006BD05D /* MainViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainViewModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				96292193284D6F5600773D61 /* Assets.xcassets */,
 				96292195284D6F5600773D61 /* LaunchScreen.storyboard */,
 				96292198284D6F5600773D61 /* Info.plist */,
+				96F0239D28519748006BD05D /* MainViewModel.swift */,
 			);
 			path = "GCD-Tutorial";
 			sourceTree = "<group>";
@@ -261,6 +264,7 @@
 				9629218F284D6F5300773D61 /* ViewController.swift in Sources */,
 				9629218B284D6F5300773D61 /* AppDelegate.swift in Sources */,
 				9629218D284D6F5300773D61 /* SceneDelegate.swift in Sources */,
+				96F0239E28519748006BD05D /* MainViewModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
